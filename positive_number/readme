@@ -1,1 +1,6 @@
-
+Write apython program tp print all positive numbers in a range.
+your input and output must look something like this
+input:list 1=[12,-7,5,64,-14]
+output:12,5,64
+input:list 2=[12,14,-95,3]
+output:12,14,3
